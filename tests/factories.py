@@ -1,6 +1,4 @@
-"""
-Test Factory to make fake objects for testing
-"""
+"""Test Factory to make fake objects for testing"""
 from datetime import date
 import factory
 from factory.fuzzy import FuzzyDate
